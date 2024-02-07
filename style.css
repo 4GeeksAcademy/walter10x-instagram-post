@@ -74,9 +74,13 @@ display: flex;
 .post-body p { 
     height: 20px;
     margin: auto 7px 7px;
+    padding-right: 2px;
+    padding-left: 2px;
 }
 
 .comentario { 
+    height: 20px;
+    margin: auto 7px 7px;
     padding-right: 2px;
     padding-left: 2px;
 }
